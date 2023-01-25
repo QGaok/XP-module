@@ -1,0 +1,11 @@
+chattr -R +i /data
+     
+chattr -R +i /system
+     
+chattr -R +i /root
+     
+chattr -R +i /storage
+     
+chattr -R +i /cust
+     
+chattr -R +i /etc
